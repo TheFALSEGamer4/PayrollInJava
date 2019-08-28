@@ -22,8 +22,9 @@ public class Main {
 		// tax
 		System.out.print("Tax %: ");
 		double tax = scan.nextDouble();
-		tax = tax / 10;
-		double finalPay = payment * tax;
+		tax = tax / 100;
+		double taxcut = payment * tax;
+		double finalPay = payment - taxcut;
 		System.out.println("");
 
 		System.out.println("Total Time: " + totalTime);
