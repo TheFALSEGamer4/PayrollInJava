@@ -1,5 +1,7 @@
 import java.util.Scanner;
 
+//also avalable at: https://repl.it/@TheFALSEGamer4/Payroll
+
 public class Main {
 	public static void main(String[] args) {
 		Scanner scan = new Scanner(System.in);
