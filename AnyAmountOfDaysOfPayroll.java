@@ -16,8 +16,8 @@ public class Main {
 		int hours = 0;
 		double time = 0.0;
 
-		int i = 1;
-		while (i <= days) {
+		int i;
+		while (i < days) {
 			System.out.println("");
 
 			System.out.print("Day " + i + " Start Time: ");
