@@ -1,2 +1,1 @@
-### 1) https://download.oracle.com/otn-pub/java/jdk/13+33/5b8a42f3905b406298b72d750b6919f6/jdk-13_windows-x64_bin.exe for the jdk
-
+### 1) https://mega.nz/#!0nZQ0ABI!7zBVKy6qE5ZRca_u1gRegL3SmO5lWhmZ9oxzQ-ZxDCg for the jdk. For Chrome Users: If you have never used mega.nz before, there should be a prompt in the top left corner asking if you want to allow the site, mega.nz, to store files on your computer. For the download to work, you must click allow. For Edge Users: It should download without any extra hassle after clicking the "Download" button.
